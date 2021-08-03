@@ -15,4 +15,4 @@ Project is created with:
 	
 ## Setup
 To run this project, install it:
-put the project in an ide or some place that can use Java swing libraries and run.
+put Checkers.java in an ide or some place that can use Java Swing libraries and run.
