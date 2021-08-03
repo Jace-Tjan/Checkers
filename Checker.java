@@ -1,11 +1,6 @@
-package checkergame;
+//package checkergame;
 //Jace Tjan
-//Status: Checkers can be played generally
-//no king made yet
-
-//if you click a white spot accidentally it still moves the last
-//	checker you clicked if you select an empty black box within it's options next.
-//might want to add an action listener for all the white ones which turns clicked once false.
+//Status: Checkers can be played normally, exception: no turns.
 
 import java.awt.Color;
 import java.awt.EventQueue;
